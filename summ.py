@@ -3,3 +3,4 @@ y = int(input("enter second number : "))
 
 sum = x + y
 
+print(sum)
